@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae32036d-1639-4053-80dc-ace116a888c5" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r6dWqTf1kfAAYgXLTnBCGmURat" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.37" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../graduate" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae32036d-1639-4053-80dc-ace116a888c5" name="默认更改列表" comment="" />
+      <created>1618300507592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618300507592</updated>
+      <workItem from="1618300509514" duration="2645000" />
+      <workItem from="1618366232608" duration="2130000" />
+      <workItem from="1619368473309" duration="344000" />
+      <workItem from="1619398167119" duration="7566000" />
+      <workItem from="1619422537135" duration="8051000" />
+      <workItem from="1619434845027" duration="4834000" />
+      <workItem from="1619484754234" duration="20080000" />
+      <workItem from="1619515352292" duration="1952000" />
+      <workItem from="1619530651741" duration="4800000" />
+      <workItem from="1619570781234" duration="2451000" />
+      <workItem from="1619575669531" duration="3104000" />
+      <workItem from="1619607591689" duration="4378000" />
+      <workItem from="1619657971969" duration="6304000" />
+      <workItem from="1619744027899" duration="1775000" />
+      <workItem from="1619776261620" duration="213000" />
+      <workItem from="1619776684939" duration="128000" />
+      <workItem from="1619861785559" duration="19153000" />
+      <workItem from="1619932778831" duration="16737000" />
+      <workItem from="1620038525450" duration="6055000" />
+      <workItem from="1620088973669" duration="241000" />
+      <workItem from="1620228370427" duration="2590000" />
+      <workItem from="1620261946260" duration="15000" />
+      <workItem from="1622014096580" duration="2993000" />
+      <workItem from="1622037732138" duration="695000" />
+      <workItem from="1622083557725" duration="8360000" />
+      <workItem from="1622113608717" duration="2588000" />
+      <workItem from="1622162927894" duration="3231000" />
+      <workItem from="1622180890985" duration="2902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
